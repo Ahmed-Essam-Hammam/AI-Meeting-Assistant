@@ -472,5 +472,3 @@ Project Link: [https://github.com/Ahmed-Essam-Hammam/AI-Meeting-Assistant](https
 
 ---
 
-**Built with ❤️ by Ahmed Essam Hammam**
-
