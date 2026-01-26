@@ -102,7 +102,6 @@ Next Meeting:
         max_tokens=600,
         temperature=0.3
     )
-
     return response.choices[0].message["content"]
 
 
